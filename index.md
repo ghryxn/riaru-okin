@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome to Rikaru Okin's Official Site
 
-This is the home of the UTAU voicebank **Rikaru Okin** (リカル オキン).
+This is the home of the UTAU voicebank **Rikaru Okin** (リカル オキン).  
 -# This voicebank is recommended to use in UTAU | OpenUtau.
 
 ## Voicebank Features

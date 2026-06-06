@@ -12,7 +12,7 @@ This is the home of the UTAU voicebank **Rikaru Okin** (リカル オキン).
 
 ## Voicebank Features
 * **Voice Type:** CV
-* **Optimum Range:** [Put your notes here when you check!]
+* **Optimum Range:** B9 - C-1
 * **Flag recommendations:** None (CLASSIC for OpenUtau)
 
 <br>

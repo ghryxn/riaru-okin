@@ -1,0 +1,48 @@
+<style>
+  /* Position the translation button container in the top right */
+  .custom-translate-container {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 999;
+  }
+  
+  /* Make sure it shifts nicely on smaller mobile screens */
+  @media (max-width: 600px) {
+    .custom-translate-container {
+      position: relative;
+      top: 0;
+      right: 0;
+      margin-bottom: 15px;
+      text-align: right;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const translateBtn = document.getElementById("translateBtn");
+    if (!translateBtn) return;
+
+    let currentLang = "ja"; // Default is Japanese
+
+    translateBtn.addEventListener("click", function() {
+      const jaElements = document.querySelectorAll(".lang-ja");
+      const enElements = document.querySelectorAll(".lang-en");
+
+      if (currentLang === "ja") {
+        // Switch to English
+        jaElements.forEach(el => el.style.display = "none");
+        enElements.forEach(el => el.style.display = "inline"); // or "block" depending on layout
+        translateBtn.textContent = "Translate to カタカナ";
+        currentLang = "en";
+      } else {
+        // Switch back to Japanese
+        jaElements.forEach(el => el.style.display = "inline");
+        enElements.forEach(el => el.style.display = "none");
+        translateBtn.textContent = "Translate to English";
+        currentLang = "ja";
+      }
+    });
+  });
+</script>

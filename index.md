@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome to Rikaru Okin's Official Site
 
-This is the home of the UTAU voicebank **Rikaru Okin**. 
+This is the home of the UTAU voicebank **Rikaru Okin 「リカル オキン」**. 
 
 ## Voicebank Features
 * Voice Type: [e.g., CV, VCV, CVVC]

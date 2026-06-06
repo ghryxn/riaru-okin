@@ -1,0 +1,10 @@
+title: Rikaru Okin「リカル オキン」UTAU
+description: Official website and documentation for the UTAU voicebank Rikaru Okin.
+theme: jekyll-theme-primer # A fallback default
+
+# Enable Just the Docs via remote themes
+remote_theme: just-the-docs/just-the-docs
+
+# Plugins required for the theme
+plugins:
+  - jekyll-remote-theme

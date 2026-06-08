@@ -1,2 +1,2 @@
-# rikaru-okin
-Rikaru Okin [リカル オキン], a UTAU voicebank.
+# riaru-okin
+Riaru Okin [リアル ッキン], a UTAU voicebank.

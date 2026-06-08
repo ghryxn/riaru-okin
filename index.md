@@ -5,9 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
-# Welcome to Rikaru Okin's Official Site
+# Welcome to Riaru Okin's Official Site
 
-This is the home of the UTAU voicebank **Rikaru Okin** (リカル オキン).  
+This is the home of the UTAU voicebank **Riaru Okin** (リアル ッキン).  
 - This voicebank is recommended to use in | UTAU or OpenUtau.
 
 ## Voicebank Features
@@ -17,4 +17,4 @@ This is the home of the UTAU voicebank **Rikaru Okin** (リカル オキン).
 
 <br>
 
-[Download Rikaru Okin](#){: .btn .btn-purple }
+[Download Riaru Okin](#){: .btn .btn-purple }

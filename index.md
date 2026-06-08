@@ -17,4 +17,4 @@ This is the home of the UTAU voicebank **Riaru Okin** (リアル ッキン).
 
 <br>
 
-[Download Riaru Okin](#){: .btn .btn-purple }
+[Download Riaru Okin](https://drive.google.com/uc?id=1Uxb7n5mLbMXBLHABSe0E3pIyd6ao0uH6){: .btn .btn-purple }
